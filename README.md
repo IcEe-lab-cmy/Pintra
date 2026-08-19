@@ -3,6 +3,8 @@
   <h1>Pintra</h1>
   <p>Менеджер оконных оверлеев для Windows.</p>
 
+  [English](README_EN.md) · **Русский**
+
   [![Release](https://img.shields.io/github/v/release/IcEe-lab-cmy/Pintra?color=378fff)](https://github.com/IcEe-lab-cmy/Pintra/releases/latest)
   [![Platform](https://img.shields.io/badge/platform-Windows%20x64-1674ce)](https://github.com/IcEe-lab-cmy/Pintra/releases/latest)
 </div>
