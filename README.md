@@ -35,7 +35,7 @@
 SHA-256 для `Pintra-Setup-1.0.0-win-x64.exe`:
 
 ```text
-B77D68DDDE62691C280EDAE8ED4FA9F824F2B9CEACD54BBC38AEB068D9BB0861
+DB0F5892BC98B2AEEFAB6923B8E79E3C20F054EC0E54766E9F8DCC8B1B719DD1
 ```
 
 Публичный репозиторий содержит только страницу продукта и готовые Release-сборки. Исходный код здесь не публикуется.
