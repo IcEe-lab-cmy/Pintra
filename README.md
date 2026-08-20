@@ -40,7 +40,7 @@
 SHA-256 для `Pintra-Setup-1.0.1-win-x64.exe`:
 
 ```text
-366029220C4EB8055AC7F5CD4BFBFB4D9B1E8249B3DC9BF88384A2FF5703E711
+6894631D02ED628235058D48044B6FBD2AAED233E236FA18B013BE6ECC815E84
 ```
 
 Публичный репозиторий содержит только страницу продукта и готовые Release-сборки. Исходный код здесь не публикуется.
@@ -84,7 +84,7 @@ The installer adds Pintra to the Start menu and includes a standard uninstaller.
 SHA-256 for `Pintra-Setup-1.0.1-win-x64.exe`:
 
 ```text
-366029220C4EB8055AC7F5CD4BFBFB4D9B1E8249B3DC9BF88384A2FF5703E711
+6894631D02ED628235058D48044B6FBD2AAED233E236FA18B013BE6ECC815E84
 ```
 
 This public repository contains only the product page and compiled Release builds. The source code is not published here.
