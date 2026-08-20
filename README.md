@@ -17,9 +17,9 @@
 
 Готовая версия доступна на странице [Releases](https://github.com/IcEe-lab-cmy/Pintra/releases/latest).
 
-1. Скачайте `Pintra-Setup-1.0.0-win-x64.exe`.
+1. Скачайте `Pintra-Setup-1.0.1-win-x64.exe`.
 2. Запустите установщик и выберите папку установки.
-3. При необходимости включите ярлык на рабочем столе и автозапуск.
+3. При необходимости включите ярлык на рабочем столе.
 
 Установщик добавляет Pintra в меню «Пуск» и создаёт штатный деинсталлятор. Приложение самодостаточное и не требует отдельной установки .NET. Для интерфейса необходим Microsoft Edge WebView2 Runtime, который обычно уже установлен в Windows 10 и 11.
 
@@ -33,13 +33,14 @@
 - Игровой режим, системный трей, русский и английский языки.
 - Звуковое подтверждение и подсветка выбранного окна.
 - Автоматическая диагностика при запуске.
+- Автозапуск в системном трее и проверка обновлений через GitHub.
 
 ## Проверка файла
 
-SHA-256 для `Pintra-Setup-1.0.0-win-x64.exe`:
+SHA-256 для `Pintra-Setup-1.0.1-win-x64.exe`:
 
 ```text
-DB0F5892BC98B2AEEFAB6923B8E79E3C20F054EC0E54766E9F8DCC8B1B719DD1
+366029220C4EB8055AC7F5CD4BFBFB4D9B1E8249B3DC9BF88384A2FF5703E711
 ```
 
 Публичный репозиторий содержит только страницу продукта и готовые Release-сборки. Исходный код здесь не публикуется.
@@ -60,9 +61,9 @@ DB0F5892BC98B2AEEFAB6923B8E79E3C20F054EC0E54766E9F8DCC8B1B719DD1
 
 The latest ready-to-use version is available on the [Releases](https://github.com/IcEe-lab-cmy/Pintra/releases/latest) page.
 
-1. Download `Pintra-Setup-1.0.0-win-x64.exe`.
+1. Download `Pintra-Setup-1.0.1-win-x64.exe`.
 2. Run the installer and select the installation folder.
-3. Optionally enable the desktop shortcut and launch at startup.
+3. Optionally enable the desktop shortcut.
 
 The installer adds Pintra to the Start menu and includes a standard uninstaller. The application is self-contained and does not require a separate .NET installation. Microsoft Edge WebView2 Runtime is required for the interface and is normally included with Windows 10 and 11.
 
@@ -76,13 +77,14 @@ The installer adds Pintra to the Start menu and includes a standard uninstaller.
 - Game mode, system tray controls, and English/Russian localization.
 - Audio confirmation and a subtle highlight around the selected window.
 - Automatic startup diagnostics.
+- Start with Windows in the system tray and check GitHub for updates.
 
 ### File verification
 
-SHA-256 for `Pintra-Setup-1.0.0-win-x64.exe`:
+SHA-256 for `Pintra-Setup-1.0.1-win-x64.exe`:
 
 ```text
-DB0F5892BC98B2AEEFAB6923B8E79E3C20F054EC0E54766E9F8DCC8B1B719DD1
+366029220C4EB8055AC7F5CD4BFBFB4D9B1E8249B3DC9BF88384A2FF5703E711
 ```
 
 This public repository contains only the product page and compiled Release builds. The source code is not published here.
