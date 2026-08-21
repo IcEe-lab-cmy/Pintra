@@ -17,7 +17,7 @@
 
 Готовая версия доступна на странице [Releases](https://github.com/IcEe-lab-cmy/Pintra/releases/latest).
 
-1. Скачайте `Pintra-Setup-1.0.1-win-x64.exe`.
+1. Скачайте `Pintra-Setup-1.0.2-win-x64.exe`.
 2. Запустите установщик и выберите папку установки.
 3. При необходимости включите ярлык на рабочем столе.
 
@@ -37,10 +37,10 @@
 
 ## Проверка файла
 
-SHA-256 для `Pintra-Setup-1.0.1-win-x64.exe`:
+SHA-256 для `Pintra-Setup-1.0.2-win-x64.exe`:
 
 ```text
-6894631D02ED628235058D48044B6FBD2AAED233E236FA18B013BE6ECC815E84
+53655C12BFA7D62C7B0A36339AED48AEEA48202F13AE846F593BB6EA33CAB615
 ```
 
 Публичный репозиторий содержит только страницу продукта и готовые Release-сборки. Исходный код здесь не публикуется.
@@ -61,7 +61,7 @@ SHA-256 для `Pintra-Setup-1.0.1-win-x64.exe`:
 
 The latest ready-to-use version is available on the [Releases](https://github.com/IcEe-lab-cmy/Pintra/releases/latest) page.
 
-1. Download `Pintra-Setup-1.0.1-win-x64.exe`.
+1. Download `Pintra-Setup-1.0.2-win-x64.exe`.
 2. Run the installer and select the installation folder.
 3. Optionally enable the desktop shortcut.
 
@@ -81,10 +81,10 @@ The installer adds Pintra to the Start menu and includes a standard uninstaller.
 
 ### File verification
 
-SHA-256 for `Pintra-Setup-1.0.1-win-x64.exe`:
+SHA-256 for `Pintra-Setup-1.0.2-win-x64.exe`:
 
 ```text
-6894631D02ED628235058D48044B6FBD2AAED233E236FA18B013BE6ECC815E84
+53655C12BFA7D62C7B0A36339AED48AEEA48202F13AE846F593BB6EA33CAB615
 ```
 
 This public repository contains only the product page and compiled Release builds. The source code is not published here.
